@@ -44,7 +44,7 @@ export default function Header({ backToMap = false }: { backToMap?: boolean }) {
           </Link>
         ) : (
           <div style={{ display: "flex", flexDirection: "column", lineHeight: 1.1 }}>
-            <span style={{ fontWeight: 800, fontSize: 17, letterSpacing: "-0.01em" }}>KUPOVLAST</span>
+            <span style={{ fontWeight: 800, fontSize: 17, letterSpacing: "-0.01em" }}>KUPIDOM</span>
             <span className="mono" style={{ fontSize: 10, color: "#78716c" }}>
               KUPI NEKRETNINU DIREKTNO
             </span>
@@ -59,7 +59,7 @@ export default function Header({ backToMap = false }: { backToMap?: boolean }) {
       <div style={{ display: "flex", alignItems: "center", gap: 10, flex: "none" }}>
         <Link
           href="/pomoc"
-          aria-label="Pomoć — kako Kupovlast radi"
+          aria-label="Pomoć — kako Kupidom radi"
           title="Pomoć"
           style={{
             width: 30,

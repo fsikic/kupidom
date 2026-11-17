@@ -74,7 +74,7 @@ export default function DetaljiPage() {
 
             <div style={{ marginTop: 18, paddingTop: 14, borderTop: "1px solid #d6d3d1" }}>
               <span className="mono" style={{ fontSize: 10, color: "#a8a29e" }}>
-                REZERVACIJA KAPARE NIJE KUPOPRODAJA NEKRETNINE. KUPOVLAST JE POSREDNIK — UGOVOR I PRIJENOS VLASNIŠTVA IDU ISKLJUČIVO PREKO JAVNOG BILJEŽNIKA.
+                REZERVACIJA KAPARE NIJE KUPOPRODAJA NEKRETNINE. KUPIDOM JE POSREDNIK — UGOVOR I PRIJENOS VLASNIŠTVA IDU ISKLJUČIVO PREKO JAVNOG BILJEŽNIKA.
               </span>
             </div>
           </div>

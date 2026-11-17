@@ -96,7 +96,7 @@ export default function MapPage() {
 
           <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, padding: "12px 24px", background: "rgba(250,250,249,0.95)", borderTop: "1px solid #d6d3d1", backdropFilter: "blur(6px)" }}>
             <span className="mono" style={{ fontSize: "10.5px", color: "#78716c" }}>
-              REZERVACIJA KROZ KUPOVLAST NIJE KUPOPRODAJNI UGOVOR — PRIJENOS VLASNIŠTVA IDE ISKLJUČIVO PREKO JAVNOG BILJEŽNIKA I ZEMLJIŠNIH KNJIGA
+              REZERVACIJA KROZ KUPIDOM NIJE KUPOPRODAJNI UGOVOR — PRIJENOS VLASNIŠTVA IDE ISKLJUČIVO PREKO JAVNOG BILJEŽNIKA I ZEMLJIŠNIH KNJIGA
             </span>
           </div>
         </main>

@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Kupovlast — kupi nekretninu direktno",
+  title: "Kupidom — kupi nekretninu direktno",
   description: "Nekretnine na mapi. Rezerviraj kaparu online, ugovor i prijenos vlasništva idu preko javnog bilježnika.",
 };
 

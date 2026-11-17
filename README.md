@@ -1,7 +1,7 @@
-# Kupovlast
+# Kupidom
 
 Nekretnine na mapi — pretraga, detalji i online rezervacija kapare. Prijenos vlasništva ide
-isključivo preko javnog bilježnika i zemljišnih knjiga; Kupovlast je posrednik, ne stranka u ugovoru.
+isključivo preko javnog bilježnika i zemljišnih knjiga; Kupidom je posrednik, ne stranka u ugovoru.
 
 Prototip, podaci su primjeri (nisu stvarni oglasi).
 
